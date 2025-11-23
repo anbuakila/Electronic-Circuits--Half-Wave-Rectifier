@@ -3,7 +3,11 @@
 ## AIM:
 To simulate a half wave rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
+HALF WAVE RECTIFIER WITHOUT FILTER:
 <img width="834" height="508" alt="image" src="https://github.com/user-attachments/assets/f7b877e1-6b2e-43fa-b644-d62769925a09" />
+HALF WAVE RECTIFIER WITH FILTER:
+<img width="834" height="508" alt="image" src="https://github.com/user-attachments/assets/311287f1-7323-4d75-85fc-199188c4affc" />
+
 
 
 ## STEPS FOR SIMULATION:
